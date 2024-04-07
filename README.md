@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victoria
 - 👀 I’m interested in healthcare analytics, statistics and data visualisation 
-- 🌱 I’m currently learning R and SQL
+- 🌱 I’m currently actively using R and learning SQL
 
 <!---
 vikachooo/vikachooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

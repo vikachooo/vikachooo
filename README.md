@@ -1,6 +1,6 @@
 # Hello there 👩🏻‍💻
 
-Hi, I’m Victoria! I am a data analyst who who wants to become a data scientist. I am interested in healthcare analytics, economic modelling, HTA and real-world evidence. I love coding in R and I am not convieced that Python is better for data analysis. 
+Hi, I’m Victoria! I am a data analyst who wants to become a data scientist. I am interested in healthcare analytics, economic modelling, HTA and real-world evidence. I love coding in R and I am not convieced that Python is better for data analysis. 
 
 <!---
 vikachooo/vikachooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

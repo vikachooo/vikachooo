@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Victoria
-- 👀 I’m interested in healthcare analytics, statistics and data visualisation 
-- 🌱 I’m currently actively using R and learning SQL
+#Hello there 👩🏻‍💻
+
+Hi, I’m Victoria! I am an analyst who who wants to become a data scientist. I am interested in healthcare analytics, economic modelling, HTA and real-world evidence. I love coding in R and I am not convieced that Python is better for data analysis. 
 
 <!---
 vikachooo/vikachooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

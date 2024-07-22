@@ -1,6 +1,6 @@
 # Hello there 👩🏻‍💻
 
-Hi, I’m Victoria! I am interested in healthcare analytics, economic modelling, HTA and real-world evidence. 
+Hi, I’m Victoria! I am interested in healthcare analytics, HTA and real-world evidence. 
 
 
 <!---

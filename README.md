@@ -1,7 +1,5 @@
 # Hello there 👩🏻‍💻
 
-Hi, I’m Victoria! I am interested in healthcare analytics, HTA and real-world evidence. 
-
 
 <!---
 vikachooo/vikachooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
